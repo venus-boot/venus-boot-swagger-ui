@@ -43,7 +43,7 @@
     <scm>
         <connection>scm:git:git@github.com:venus-boot/venus-boot-swagger-ui</connection>
         <developerConnection>scm:git:git@github.com:venus-boot/venus-boot-swagger-ui</developerConnection>
-        <url>git@github.com:venus-boot/venus-boot-swagger-ui.git</url>
+        <url>ggit@github.com:venus-boot/venus-boot-swagger-ui.git</url>
     </scm>
     <build>
         <plugins>
